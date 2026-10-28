@@ -1,0 +1,6 @@
+{
+  "name": "Cinex Computers",
+  "description": "Tezpur's premier IT hub for custom PC builds, laptop repair, CCTV security systems, and high-performance hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
